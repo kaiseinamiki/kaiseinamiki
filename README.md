@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá! Eu sou Kaisei Namiki. 👋
+• Bacharelando em Ciência da Computação na Universidade Federal Rural do Rio de Janeiro, UFRRJ (4/8).
+
+Aspirante a Desenvolvedor de Jogos, ávido pelo aprendizado e experienciações.
 
 <!--
 **kaiseinamiki/kaiseinamiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
